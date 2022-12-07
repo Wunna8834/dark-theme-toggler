@@ -1,0 +1,16 @@
+.content {
+    background-color: #F0E9D2;
+    color: #000;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 2rem;
+}
+.content-dark {
+    background-color: #181D31;
+    color: #fff;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 2rem;
+}
